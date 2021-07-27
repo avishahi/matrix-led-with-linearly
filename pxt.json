@@ -3,8 +3,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "microphone": "*",
-        "Matrix led with linearly": "github:avishahi/matrix-led-with-linearly#e7d003806b0272f5a3bd15e3684c356e73a6b6c5"
+        "microphone": "*"
     },
     "files": [
         "main.ts",
