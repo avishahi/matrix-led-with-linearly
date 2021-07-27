@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.8",
+        "Matrix led with linearly": "github:avishahi/matrix-led-with-linearly#53d023aab458c0a4df8a9803b575ef391d296f0f"
     },
     "files": [
         "main.ts",
