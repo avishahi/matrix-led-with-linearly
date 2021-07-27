@@ -1,4 +1,7 @@
-//% color=190 weight=100 icon="f5dd" block="screenmagic Blocks"
+/**
+ * Control of the LED screen.
+ */
+//% color=#5C2D91 weight=101 icon="\uf205"
 namespace screenmagic {
     /**
      * Address leds linearly row first 
