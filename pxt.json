@@ -1,12 +1,10 @@
 {
-    "name": "Matrix led with linearly",
+    "name": "Matrix-led-with-linearly",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*",
-        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.8",
-        "Matrix led with linearly": "github:avishahi/matrix-led-with-linearly#53d023aab458c0a4df8a9803b575ef391d296f0f"
+        "Matrix led with linearly": "github:avishahi/matrix-led-with-linearly#e7d003806b0272f5a3bd15e3684c356e73a6b6c5"
     },
     "files": [
         "main.ts",

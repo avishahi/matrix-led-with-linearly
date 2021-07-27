@@ -1,3 +1,4 @@
+//% color=190 weight=100 icon="<i class="fal fa-bus-school"></i>" block="screenmagic Blocks"
 namespace screenmagic {
     /**
      * Address leds linearly row first 
